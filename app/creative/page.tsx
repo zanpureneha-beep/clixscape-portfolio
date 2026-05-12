@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function CreativePage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-[#2b1d18] via-[#3a241d] to-[#1f1613] px-6 py-20 text-white">
@@ -22,69 +23,89 @@ export default function CreativePage() {
 
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
 
-        <img
+        <Image
           src="/images/creative1.jpg"
           alt="Creative 1"
-          loading="lazy"
+          width={800}
+          height={1200}
+          quality={70}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <img
+        <Image
           src="/images/creative2.jpg"
           alt="Creative 2"
-          loading="lazy"
+          width={800}
+          height={1200}
+          quality={70}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <img
-          src="/images/c3.jpg"
-          alt="Creative 3"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
-
-        <img
-          src="/images/creative4.jpg"
-          alt="Creative 4"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
-
-        <img
-          src="/images/creative5.jpg"
-          alt="Creative 5"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
-
-        <img
-          src="/images/creative6.jpg"
-          alt="Creative 6"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
-
- <img
-          src="/images/c7.jpg"
-          alt="Creative 7"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
+       <Image
+  src="/images/creative3NEW.jpg"
+  alt="Creative 3"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
 
 
-         <img
-          src="/images/creative8.jpg"
-          alt="Creative 8"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
+       <Image
+  src="/images/creative4.jpg"
+  alt="Creative 4"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
 
- <img
-          src="/images/creative9.jpg"
-          alt="Creative 9"
-          loading="lazy"
-          className="h-[680px] w-full rounded-3xl object-cover"
-        />
+        <Image
+  src="/images/creative5.jpg"
+  alt="Creative 5"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
+
+        <Image
+  src="/images/creative6.jpg"
+  alt="Creative 6"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
+    
+  <Image
+  src="/images/creative7NEW.jpg"
+  alt="Creative 7"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
+
+
+         <Image
+  src="/images/creative8.jpg"
+  alt="Creative 8"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
+         
+
+ <Image
+  src="/images/creative9.jpg"
+  alt="Creative 9"
+  width={800}
+  height={1200}
+  quality={70}
+  className="h-[680px] w-full rounded-3xl object-cover"
+/>
 
       </div>
     </div>
