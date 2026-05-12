@@ -78,7 +78,7 @@ export default function ClixscapePortfolio() {
       {/* Hero Section */}
       <section className="relative h-screen overflow-hidden pt-20">
         <img
-          src="/images/DSC00677.JPG"
+          src="/images/hero.jpg"
           alt="Photography Hero"
           className="absolute inset-0 h-full w-full object-cover opacity-40"
         />
@@ -139,7 +139,7 @@ export default function ClixscapePortfolio() {
         <div className="grid gap-12 md:grid-cols-2 md:items-center">
           <div className="relative flex h-[420px] sm:h-[520px] md:h-[720px] items-center justify-center overflow-hidden rounded-[32px] border border-[#6b4b3e]/50 bg-[#2a1b16] shadow-[0_20px_60px_rgba(0,0,0,0.35)] md:mt-8">
           <img
-            src="/images/aboutme.png"
+            src="/images/aboutme1.png"
             alt="About Clixscape"
             className="h-full w-full object-cover object-[center_top] opacity-95 transition duration-700 hover:scale-[1.03]"
           />
