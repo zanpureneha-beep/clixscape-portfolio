@@ -22,57 +22,64 @@ export default function PortraitsPage() {
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         
         <img
-          src="/images/portrait2.JPG"
+          src="/images/portrait2.jpg"
           alt="Portrait 2"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/portrait1.JPG"
+          src="/images/portrait1.jpg"
           alt="Portrait 1"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/portrait3.JPG"
+          src="/images/portrait3.jpg"
           alt="Portrait 3"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 <img
-  src="/images/portrait4.JPG"
+  src="/images/portrait4.jpg"
   alt="Portrait 4"
+  loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 <img
-  src="/images/portrait5.JPG"
+  src="/images/portrait5.jpg"
   alt="Portrait 5"
+  loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 <img
-  src="/images/portrait6.JPG"
+  src="/images/portrait6.jpg"
   alt="Portrait 6"
+  loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 <img
-  src="/images/portrait8.JPG"
+  src="/images/portrait8.jpg"
   alt="Portrait 8"
+  loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 <img
-  src="/images/portrait7.JPG"
+  src="/images/portrait7.jpg"
   alt="Portrait 7"
+  loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 <img
-  src="/images/portrait9.JPG"
+  src="/images/portrait9.jpg"
   alt="Portrait 9"
+  loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
       </div>

@@ -23,49 +23,49 @@ export default function CreativePage() {
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
 
         <img
-          src="/images/creative1.JPG"
+          src="/images/creative1.jpg"
           alt="Creative 1"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/creative2.JPG"
+          src="/images/creative2.jpg"
           alt="Creative 2"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/creative3.JPG"
+          src="/images/creative3.jpg"
           alt="Creative 3"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/creative4.JPG"
+          src="/images/creative4.jpg"
           alt="Creative 4"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/creative5.JPG"
+          src="/images/creative5.jpg"
           alt="Creative 5"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/creative6.JPG"
+          src="/images/creative6.jpg"
           alt="Creative 6"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
  <img
-          src="/images/creative7.JPG"
+          src="/images/creative7.jpg"
           alt="Creative 7"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
@@ -73,14 +73,14 @@ export default function CreativePage() {
 
 
          <img
-          src="/images/creative8.JPG"
+          src="/images/creative8.jpg"
           alt="Creative 8"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
  <img
-          src="/images/creative9.JPG"
+          src="/images/creative9.jpg"
           alt="Creative 9"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
