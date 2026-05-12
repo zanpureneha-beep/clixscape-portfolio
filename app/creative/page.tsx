@@ -37,7 +37,7 @@ export default function CreativePage() {
         />
 
         <img
-          src="/images/creative3.jpg"
+          src="/images/c3.jpg"
           alt="Creative 3"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
@@ -65,7 +65,7 @@ export default function CreativePage() {
         />
 
  <img
-          src="/images/creative7.jpg"
+          src="/images/c7.jpg"
           alt="Creative 7"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"

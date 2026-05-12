@@ -22,7 +22,7 @@ export default function PortraitsPage() {
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         
         <img
-          src="/images/portrait2.jpg"
+          src="/images/p2.jpg"
           alt="Portrait 2"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
@@ -36,13 +36,13 @@ export default function PortraitsPage() {
         />
 
         <img
-          src="/images/portrait3.jpg"
+          src="/images/p3.jpg"
           alt="Portrait 3"
           loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 <img
-  src="/images/portrait4.jpg"
+  src="/images/p4.jpg"
   alt="Portrait 4"
   loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
@@ -56,7 +56,7 @@ export default function PortraitsPage() {
 />
 
 <img
-  src="/images/portrait6.jpg"
+  src="/images/p6.jpg"
   alt="Portrait 6"
   loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
@@ -70,14 +70,14 @@ export default function PortraitsPage() {
 />
 
 <img
-  src="/images/portrait7.jpg"
+  src="/images/p7.jpg"
   alt="Portrait 7"
   loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 <img
-  src="/images/portrait9.jpg"
+  src="/images/p9.jpg"
   alt="Portrait 9"
   loading="lazy"
   className="h-[680px] w-full rounded-3xl object-cover"
