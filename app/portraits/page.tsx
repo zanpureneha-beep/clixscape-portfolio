@@ -24,12 +24,14 @@ export default function PortraitsPage() {
         <img
           src="/images/portrait2.JPG"
           alt="Portrait 2"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/portrait1.JPG"
           alt="Portrait 1"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 

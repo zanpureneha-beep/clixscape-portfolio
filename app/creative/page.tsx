@@ -25,42 +25,49 @@ export default function CreativePage() {
         <img
           src="/images/creative1.JPG"
           alt="Creative 1"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/creative2.JPG"
           alt="Creative 2"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/creative3.JPG"
           alt="Creative 3"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/creative4.JPG"
           alt="Creative 4"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/creative5.JPG"
           alt="Creative 5"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/creative6.JPG"
           alt="Creative 6"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
  <img
           src="/images/creative7.JPG"
           alt="Creative 7"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -68,12 +75,14 @@ export default function CreativePage() {
          <img
           src="/images/creative8.JPG"
           alt="Creative 8"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
  <img
           src="/images/creative9.JPG"
           alt="Creative 9"
+          loading="lazy"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
