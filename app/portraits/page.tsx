@@ -94,7 +94,7 @@ export default function PortraitsPage() {
 />
 
 <Image
-  src="/images/portrait9NEW.jpg"
+  src="/images/banana123.jpg"
   alt="Portrait 9"
   width={800}
   height={1200}
