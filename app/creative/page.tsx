@@ -79,7 +79,7 @@ export default function CreativePage() {
 />
     
   <Image
-  src="/images/creative7NEW.jpg"
+  src="/images/creative7NEWEST.jpg"
   alt="Creative 7"
   width={800}
   height={1200}

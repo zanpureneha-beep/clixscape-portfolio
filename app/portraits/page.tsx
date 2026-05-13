@@ -94,13 +94,15 @@ export default function PortraitsPage() {
 />
 
 <Image
-  src="/images/xyz8.jpg"
+  src="/images/portrait9NEWEST.jpg"
   alt="Portrait 9"
   width={800}
   height={1200}
   quality={70}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
+
+
       </div>
     </div>
   );
