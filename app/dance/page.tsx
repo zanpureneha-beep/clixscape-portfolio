@@ -22,84 +22,57 @@ export default function DancePage() {
 
      <div className="grid gap-8 px-2 sm:px-4 md:grid-cols-2 xl:grid-cols-3">
 
-        <Image
+        <img
           src="/images/dance1.jpg"
           alt="Dance 1"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance2.jpg"
           alt="Dance 2"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance3.jpg"
           alt="Dance 3"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance4.jpg"
           alt="Dance 4"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance5.jpg"
           alt="Dance 5"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance6.jpg"
           alt="Dance 6"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance7.jpg"
           alt="Dance 7"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance8.jpg"
           alt="Dance 8"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/dance9.jpg"
           alt="Dance 9"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 

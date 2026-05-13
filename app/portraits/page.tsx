@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 export default function PortraitsPage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-[#2b1d18] via-[#3a241d] to-[#1f1613] px-6 py-20 text-white">
@@ -22,74 +22,51 @@ export default function PortraitsPage() {
 
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         
-        <Image
+        <img
           src="/images/portrait2NEW.jpg"
           alt="Portrait 2"
-          width={800}
-          height={1200}
-          quality={75}
+        
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/portrait1.jpg"
           alt="Portrait 1"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
-        <Image
+        <img
           src="/images/portrait3NEW.jpg"
           alt="Portrait 3"
-          width={800}
-          height={1200}
-          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
-<Image
+<img
   src="/images/portrait4NEW.jpg"
   alt="Portrait 4"
-  width={800}
-  height={1200}
-  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
-<Image
+<img
   src="/images/portrait5.jpg"
   alt="Portrait 5"
-  width={800}
-  height={1200}
-  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
-<Image
+<img
   src="/images/portrait6NEW.jpg"
   alt="Portrait 6"
-  width={800}
-  height={1200}
-  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
-<Image
+<img
   src="/images/portrait8.jpg"
   alt="Portrait 8"
-  width={800}
-  height={1200}
-  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
-<Image
+<img
   src="/images/portrait7NEW.jpg"
   alt="Portrait 7"
-  width={800}
-  height={1200}
-  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
