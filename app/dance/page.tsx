@@ -1,4 +1,3 @@
-import Image from "next/image";
 export default function DancePage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-[#2b1d18] via-[#3a241d] to-[#1f1613] px-3 sm:px-6 py-20 text-white">
