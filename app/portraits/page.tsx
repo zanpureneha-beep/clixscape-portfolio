@@ -70,11 +70,7 @@ export default function PortraitsPage() {
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
-<img
-src="/images/fresh1.jpg"
-alt="Portrait 9"
-className="h-[680px] w-full rounded-3xl object-cover"
-/>  
+
 
 
 

@@ -60,13 +60,6 @@ export default function CreativePage() {
   alt="Creative 6"
   className="h-[680px] w-full rounded-3xl object-cover"
 />
-    
-  <img
-  src="/images/abc7.jpg"
-  alt="Creative 7"
-    className="h-[680px] w-full rounded-3xl object-cover"
-/>
-
 
    <img
   src="/images/creative8.jpg"
