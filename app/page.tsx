@@ -326,7 +326,7 @@ export default function ClixscapePortfolio() {
       <footer className="border-t border-[#6b4b3e]/40 px-6 py-8">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 text-center md:flex-row">
           <p className="text-sm text-[#d8b7a3]">
-            © 2026 Clixscape Photography
+            © 2026 Clixscape Studio
           </p>
 
           <p className="text-sm italic text-[#f2dfd3]">
