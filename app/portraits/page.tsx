@@ -71,9 +71,6 @@ export default function PortraitsPage() {
 />
 
 
-
-
-
       </div>
     </div>
   );
