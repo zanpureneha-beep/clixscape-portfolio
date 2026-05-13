@@ -27,7 +27,7 @@ export default function DancePage() {
           alt="Dance 1"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -36,7 +36,7 @@ export default function DancePage() {
           alt="Dance 2"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -45,7 +45,7 @@ export default function DancePage() {
           alt="Dance 3"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -54,7 +54,7 @@ export default function DancePage() {
           alt="Dance 4"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -63,7 +63,7 @@ export default function DancePage() {
           alt="Dance 5"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -72,7 +72,7 @@ export default function DancePage() {
           alt="Dance 6"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -81,7 +81,7 @@ export default function DancePage() {
           alt="Dance 7"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -90,7 +90,7 @@ export default function DancePage() {
           alt="Dance 8"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -99,7 +99,7 @@ export default function DancePage() {
           alt="Dance 9"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 

@@ -27,7 +27,7 @@ export default function PortraitsPage() {
           alt="Portrait 2"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -36,7 +36,7 @@ export default function PortraitsPage() {
           alt="Portrait 1"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
@@ -45,7 +45,7 @@ export default function PortraitsPage() {
           alt="Portrait 3"
           width={800}
           height={1200}
-          quality={70}
+          quality={75}
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 <Image
@@ -53,7 +53,7 @@ export default function PortraitsPage() {
   alt="Portrait 4"
   width={800}
   height={1200}
-  quality={70}
+  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
@@ -62,7 +62,7 @@ export default function PortraitsPage() {
   alt="Portrait 5"
   width={800}
   height={1200}
-  quality={70}
+  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
@@ -71,7 +71,7 @@ export default function PortraitsPage() {
   alt="Portrait 6"
   width={800}
   height={1200}
-  quality={70}
+  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
@@ -80,7 +80,7 @@ export default function PortraitsPage() {
   alt="Portrait 8"
   width={800}
   height={1200}
-  quality={70}
+  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
@@ -89,17 +89,14 @@ export default function PortraitsPage() {
   alt="Portrait 7"
   width={800}
   height={1200}
-  quality={70}
+  quality={75}
   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
-<Image
+<img
   src="/images/portrait9NEWEST.jpg"
   alt="Portrait 9"
-  width={800}
-  height={1200}
-  quality={70}
-  className="h-[680px] w-full rounded-3xl object-cover"
+   className="h-[680px] w-full rounded-3xl object-cover"
 />
 
 
