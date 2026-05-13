@@ -1,7 +1,5 @@
 'use client';
 
-
-
 export default function ClixscapePortfolio() {
   const gallery = [
     {
@@ -139,7 +137,7 @@ export default function ClixscapePortfolio() {
         <div className="grid gap-12 md:grid-cols-2 md:items-center">
           <div className="relative flex h-[420px] sm:h-[520px] md:h-[720px] items-center justify-center overflow-hidden rounded-[32px] border border-[#6b4b3e]/50 bg-[#2a1b16] shadow-[0_20px_60px_rgba(0,0,0,0.35)] md:mt-8">
           <img
-            src="/images/aboutme1.png"
+            src="/images/aboutme1.jpg"
             alt="About Clixscape"
             className="h-full w-full object-cover object-[center_top] opacity-95 transition duration-700 hover:scale-[1.03]"
           />
@@ -326,7 +324,7 @@ export default function ClixscapePortfolio() {
       <footer className="border-t border-[#6b4b3e]/40 px-6 py-8">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 text-center md:flex-row">
           <p className="text-sm text-[#d8b7a3]">
-            © 2026 Clixscape Studio
+            © 2026 Clixscape Photography
           </p>
 
           <p className="text-sm italic text-[#f2dfd3]">
