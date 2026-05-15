@@ -71,7 +71,7 @@ export default function PortraitsPage() {
   className="h-[680px] w-full rounded-3xl object-cover"
   />
 
-  <img
+ <img
   src="/images/new9.jpg"
   alt="Portrait 9"
   className="h-[680px] w-full rounded-3xl object-cover"
