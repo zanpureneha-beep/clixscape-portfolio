@@ -63,7 +63,7 @@ export default function PortraitsPage() {
   src="/images/portrait7NEW.jpg"
   alt="Portrait 7"
   className="h-[680px] w-full rounded-3xl object-cover"
-/>
+  />
 
 <img
   src="/images/portrait8.jpg"

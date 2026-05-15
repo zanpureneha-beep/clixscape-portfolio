@@ -3,7 +3,7 @@
 export default function ClixscapePortfolio() {
   const gallery = [
     {
-      title: 'Golden Hour Portraits',
+      title: ' Portraits',
       category: 'Portraits',
       image: '/images/Icon1.png',
     },
