@@ -40,37 +40,37 @@ export default function DancePage() {
         />
 
         <img
-          src="/images/dance4 (2).jpg"
+          src="/images/dance4.jpg"
           alt="Dance 4"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/dance5 (2).jpg"
+          src="/images/dance5.jpg"
           alt="Dance 5"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/dance6 (2).jpg"
+          src="/images/dance6.jpg"
           alt="Dance 6"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/dance7 (2).jpg"
+          src="/images/dance7.jpg"
           alt="Dance 7"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/dance8 (2).jpg"
+          src="/images/dance8.jpg"
           alt="Dance 8"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
 
         <img
-          src="/images/dance9 (2).jpg"
+          src="/images/dance9.jpg"
           alt="Dance 9"
           className="h-[680px] w-full rounded-3xl object-cover"
         />
