@@ -1,25 +1,7 @@
 export default function DancePage() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-[#2b1d18] via-[#3a241d] to-[#1f1613] px-3 sm:px-6 py-20 text-white">
-      
-      <div className="mb-16 text-center">
-        <p className="mb-4 text-sm uppercase tracking-[0.4em] text-[#d8b7a3]">
-          Clixscape Gallery
-        </p>
-
-        <h1 className="text-5xl font-bold md:text-7xl">
-          Kathak Frames
-        </h1>
-
-        <div className="mx-auto mt-6 h-[2px] w-32 rounded-full bg-[#f0c98d]" />
-
-        <p className="mx-auto mt-8 max-w-2xl text-lg leading-8 text-[#f2dfd3]">
-          Expressions, rhythm, movement, and timeless storytelling captured
-          through classical dance photography.
-        </p>
-      </div>
-
-     <div className="grid gap-8 px-2 sm:px-4 md:grid-cols-2 xl:grid-cols-3">
+    <div className="min-h-screen bg-gradient-to-b from-[#2b1d18] via-[#4a2f27] to-[#1f1613] px-6 py-20">
+      <div className="mx-auto grid max-w-7xl gap-6 md:grid-cols-2 lg:grid-cols-3">
 
         <img
           src="/images/dance1.jpg"
