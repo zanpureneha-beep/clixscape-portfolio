@@ -31,8 +31,25 @@ export default function ClixscapePortfolio() {
             CLIXSCAPE
           </a>
 
-          <div className="hidden items-center gap-8 md:flex">
-            <a
+
+          <div className="flex gap-6">
+
+            
+<a
+  href="#about"
+  onClick={(e) => {
+    e.preventDefault();
+    document
+      .getElementById('about')
+      ?.scrollIntoView({ behavior: 'smooth' });
+  }}
+  className="text-sm tracking-[0.2em] text-[#d8b7a3] transition hover:text-white"
+>
+  ABOUT
+</a>
+
+
+         <a
               href="#portfolio"
               onClick={(e) => {
                 e.preventDefault();
@@ -72,6 +89,9 @@ export default function ClixscapePortfolio() {
             </a>
           </div>
         </div>
+        <button className="md:hidden text-[#f2dfd3] text-3xl">
+  ☰
+</button>
       </nav>
       {/* Hero Section */}
       <section className="relative h-screen overflow-hidden pt-20">
@@ -133,7 +153,11 @@ export default function ClixscapePortfolio() {
       </section>
 
       {/* About Section */}
-      <section className="mx-auto max-w-6xl px-6 py-24">
+     <section
+  id="about"
+  className="mx-auto max-w-6xl px-6 py-24"
+>
+
         <div className="grid gap-12 md:grid-cols-2 md:items-center">
           <div className="relative flex h-[420px] sm:h-[520px] md:h-[720px] items-center justify-center overflow-hidden rounded-[32px] border border-[#6b4b3e]/50 bg-[#2a1b16] shadow-[0_20px_60px_rgba(0,0,0,0.35)] md:mt-8">
           <img
