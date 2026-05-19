@@ -26,56 +26,56 @@ export default function CreativePage() {
         <img
           src="/images/creative1.jpg"
           alt="Creative 1"
-          className="h-[680px] w-full rounded-3xl object-cover"
+          className="aspect-[4/5] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/creative2.jpg"
           alt="Creative 2"
-          className="h-[680px] w-full rounded-3xl object-cover"
+          className="aspect-[4/5] w-full rounded-3xl object-cover"
           
         />
 
        <img
   src="/images/creative3NEW.jpg"
   alt="Creative 3"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
 
        <img
   src="/images/creative4.jpg"
   alt="Creative 4"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
         <img
   src="/images/creative5.jpg"
   alt="Creative 5"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
         <img
   src="/images/creative6.jpg"
   alt="Creative 6"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
    <img
   src="/images/creative8.jpg"
   alt="Creative 8"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
   <img
   src="/images/new7.jpg"
   alt="Creative 9"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />        
 
  <img
   src="/images/creative9.jpg"
   alt="Creative 9"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
       </div>

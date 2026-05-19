@@ -26,56 +26,56 @@ export default function PortraitsPage() {
           src="/images/portrait2NEW.jpg"
           alt="Portrait 2"
         
-          className="h-[680px] w-full rounded-3xl object-cover"
+          className="aspect-[4/5] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/portrait1.jpg"
           alt="Portrait 1"
-          className="h-[680px] w-full rounded-3xl object-cover"
+          className="aspect-[4/5] w-full rounded-3xl object-cover"
         />
 
         <img
           src="/images/portrait3NEW.jpg"
           alt="Portrait 3"
-          className="h-[680px] w-full rounded-3xl object-cover"
+          className="aspect-[4/5] w-full rounded-3xl object-cover"
         />
 <img
   src="/images/portrait4NEW.jpg"
   alt="Portrait 4"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
 <img
   src="/images/portrait5.jpg"
   alt="Portrait 5"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
 <img
   src="/images/portrait6NEW.jpg"
   alt="Portrait 6"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
 
 <img
   src="/images/portrait7NEW.jpg"
   alt="Portrait 7"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
   />
 
 <img
   src="/images/portrait8.jpg"
   alt="Portrait 8"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
   />
 
 
   <img
   src="/images/jdp.jpg"
   alt="Portrait 9"
-  className="h-[680px] w-full rounded-3xl object-cover"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
 
 
