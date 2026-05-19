@@ -32,7 +32,7 @@ export default function ClixscapePortfolio() {
           </a>
 
 
-          <div className="flex gap-6">
+          <div className="hidden items-center gap-8 md:flex">
 
             
 <a
