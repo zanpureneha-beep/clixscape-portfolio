@@ -31,6 +31,40 @@ export default function ClixscapePortfolio() {
             CLIXSCAPE
           </a>
 
+ <button
+  onClick={() => {
+    const menu = document.getElementById("mobile-menu");
+    menu?.classList.toggle("hidden");
+  }}
+  className="md:hidden text-[#f2dfd3] text-3xl"
+>
+  ☰
+</button>
+
+<div
+  id="mobile-menu"
+  className="hidden md:hidden absolute top-20 left-0 w-full bg-[#1f1613]/95 backdrop-blur-md border-t border-[#6b4b3e]/30"
+>
+  <div className="flex flex-col items-center gap-6 py-6">
+
+    <a href="#about" className="text-[#f2dfd3]">
+      ABOUT
+    </a>
+
+    <a href="#portfolio" className="text-[#f2dfd3]">
+      PORTFOLIO
+    </a>
+
+    <a href="#services" className="text-[#f2dfd3]">
+      SERVICES
+    </a>
+
+    <a href="#contact" className="text-[#f2dfd3]">
+      CONTACT
+    </a>
+
+  </div>
+</div>
 
           <div className="hidden items-center gap-8 md:flex">
 
@@ -89,9 +123,7 @@ export default function ClixscapePortfolio() {
             </a>
           </div>
         </div>
-        <button className="md:hidden text-[#f2dfd3] text-3xl">
-  ☰
-</button>
+       
       </nav>
       {/* Hero Section */}
       <section className="relative h-screen overflow-hidden pt-20">
