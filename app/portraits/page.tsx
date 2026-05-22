@@ -40,6 +40,26 @@ export default function PortraitsPage() {
           alt="Portrait 3"
           className="aspect-[4/5] w-full rounded-3xl object-cover"
         />
+
+         <img
+  src="/images/portrait13.jpg"
+  alt="Portrait 13"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
+/>
+
+ <img
+  src="/images/portrait14.jpg"
+  alt="Portrait 14"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
+/>
+
+
+ <img
+  src="/images/portrait15.jpg"
+  alt="Portrait 15"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
+/>
+
 <img
   src="/images/portrait4NEW.jpg"
   alt="Portrait 4"
@@ -84,7 +104,6 @@ export default function PortraitsPage() {
   alt="Portrait 11"
   className="aspect-[4/5] w-full rounded-3xl object-cover"
 />
-
 
 
  <img
