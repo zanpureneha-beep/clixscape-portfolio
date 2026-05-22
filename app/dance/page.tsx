@@ -76,6 +76,7 @@ captured through artistic dance photography. </p>
           alt="Dance 9"
           className="aspect-[4/5] w-full rounded-3xl object-cover"
         />
+        
 
       </div>
     </div>
