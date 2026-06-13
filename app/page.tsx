@@ -302,7 +302,7 @@ export default function ClixscapePortfolio() {
           </h2>
         </div>
 
-        <div className="grid gap-6 md:grid-cols-3">
+        <div className="grid gap-6 md:grid-cols-3 items-start">
           {[
             {
               title: 'Portrait Photography',
@@ -315,17 +315,18 @@ export default function ClixscapePortfolio() {
             {
               title: 'Visual Diary',
               icon: '/images/Icon3.png',
+              className: "w-[75%] mx-auto object-contain"
             },
           ].map((service, index) => (
             <div
               key={index}
-              className="rounded-3xl border border-[#6b4b3e]/50 bg-[#3a241d] p-8"
+              className="overflow-hidden rounded-3xl border border-[#6b4b3e]/50 bg-[#3a241d] p-8 flex flex-col items-center"
             >
-              <img
-  src={service.icon}
-  alt={service.title}
-  className="mb-6 h-14 w-14 object-contain"
-/>
+               <img
+    src={service.icon}
+    alt={service.title}
+    className="max-h-[220px] w-auto object-contain"
+  />
               <h3 className="text-2xl font-semibold">{service.title}</h3>
               <p className="mt-4 leading-7 text-[#d8b7a3]">
                 {service.title === 'Portrait Photography'

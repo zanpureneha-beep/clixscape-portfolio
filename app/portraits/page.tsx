@@ -121,6 +121,26 @@ export default function PortraitsPage() {
 />
 
 
+<img
+  src="/images/p14.jpg"
+  alt="Portrait 16"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
+/>
+
+
+ <img
+  src="/images/p16.jpg"
+  alt="Portrait 17"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
+/>
+
+ <img
+  src="/images/p15.jpg"
+  alt="Portrait 18"
+  className="aspect-[4/5] w-full rounded-3xl object-cover"
+/>
+
+
       </div>
     </div>
   );
